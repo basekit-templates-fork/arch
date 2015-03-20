@@ -1,7 +1,6 @@
-hatch
+Arch
 =====
 
-BaseKit's Hatch Template
+BaseKit Enom Build/Construction Template
 
-Changes 2013-06-18 - Giulietta
-+ Updated image directories to match code-base
+Forked From Ocean Hotel
